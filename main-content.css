@@ -82,3 +82,119 @@ p{
     background-color: white;
     padding-top: 10px;
 }
+
+/* nav bar 3  starts */
+
+
+.nav{
+    width: 1500px;
+    background-color: #b6ef4933;
+    padding-left: 10px;
+    height: 100px;
+    padding-top: 20px;
+
+}
+.input-field{
+    width: 15%;
+    z-index: 1;
+    padding-left: 10px;
+    height: 60px;
+    
+}
+.bb{
+    width: 200px;
+    height: 53px;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+/* WHAT WE ARE DOING */
+.welfare{
+    background-color: #b6ef4933;
+    width: 200px;
+    display: flex;
+    margin-left: 30px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.medical{
+    background-color: #b6ef4933;
+    width: 200px;
+    display: flex;
+    margin-left:20px;
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+    left: 250px;
+}
+.online{
+    background-color: #b6ef4933;
+    width: 200px;
+    display: flex;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+    left: 500px;
+}
+.water{
+    background-color: #b6ef4933;
+    width: 200px;
+    display: flex;
+  
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+    left: 750px;
+}
+.education{
+    background-color: #b6ef4933;
+    width: 220px;
+    display: flex;
+  
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+    left: 980px;
+}
+.food{
+    background-color: #b6ef4933;
+    width: 220px;
+    display: flex;
+    margin-left: 40px;
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+    left: 1200px;
+}
+
+
+.sucess{
+   
+    width: 1500px;
+    display: grid;
+    grid-template-columns:auto auto auto auto auto auto ;
+    align-content: space-evenly;
+  
+}
+.s-shot{
+    display: grid;
+    grid-template-columns: auto auto auto;
+  position: relative;
+  left: -200px;
+  top: 200px;
+  
+}
+.sylani-input{
+    background-color: rgb(51, 51, 215);
+    width: 700px;
+    position: absolute;
+    top:6000px;
+}
+
+
+
+
+
+
